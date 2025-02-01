@@ -1,3 +1,3 @@
-# main
+# Ruslan Akhmetov
 
 Всем привет
