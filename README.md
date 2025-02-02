@@ -3,16 +3,13 @@
 :round_pushpin: Уфа, Россия
 <br/><br/>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/maria-luchkova-375ba9269/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1YXkhyRmSoypKul6syGy-ZKGEO8GhlwSJ/view?usp=sharing">
+  <a href="https://docs.google.com/document/d/1jRqryGSLUPGMrdiqgPg48yA6Jk5b-y1u8TJZnDVbmgE/edit?usp=sharing">
     <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/>
   </a>
-  <a href="https://t.me/swaymedolce">
+  <a href="https://t.me/ecolla9">
     <img src="https://img.shields.io/badge/Tg-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="CV"/>
   </a>
-  <a href="https://www.kaggle.com/marialuchkova">
+  <a href="https://www.kaggle.com/ecolla999">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="CV"/>
   </a>
 </div>
