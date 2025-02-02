@@ -1,7 +1,6 @@
 # Руслан Ахметов
 :briefcase: Дата-аналитик \
 :round_pushpin: Уфа, Россия
-## Junior Data Analyst
 <br/><br/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/maria-luchkova-375ba9269/">
