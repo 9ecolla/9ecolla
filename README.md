@@ -1,5 +1,5 @@
 # Руслан Ахметов
-:briefcase: Дата-аналитик
+:briefcase: Дата-аналитик \
 :round_pushpin: Уфа, Россия
 ## Junior Data Analyst
 <br/><br/>
