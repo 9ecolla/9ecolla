@@ -39,5 +39,5 @@
 |[Оценка популярности игр](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/games-rating-analysis) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=orange"/>||
 |[Определение рыночной стоимости квартир](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/real-estate-market-analysis) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/>|  
 
-### Мои видео про работу:
+### Лучшая грамота:
 <img src="https://github.com/9ecolla/Data-analyst/blob/main/Certificates/2024_SuperFinal_Hackaton_T-Bank.jpg" alt="Т-Банк" width="222" height="318">
