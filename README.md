@@ -40,10 +40,4 @@
 |[Определение рыночной стоимости квартир](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/real-estate-market-analysis) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/>|  
 
 ### Мои грамоты:
-<div>
-    <a img src="https://github.com/9ecolla/Data-analyst/blob/main/%D0%A1ertificates/2024_%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D1%84%D0%B8%D0%BD%D0%B0%D0%BB_%D0%A5%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD_%D0%A2-%D0%91%D0%B0%D0%BD%D0%BA.jpg)" alt="CV"/>
-  </a>
-    <a href="https://www.youtube.com/watch?v=0WXm8i62Hm0&ab_channel=Мария">
-    <img src=pics/p2.PNG?raw=true "Title" width="330" height="250"/>
-  </a>
-</div>
+![ГТ-Банк](Сertificates/2024_Суперфинал_Хакатон_Т-Банк.jpg)
