@@ -26,7 +26,7 @@
 ###  Проекты:
 | Название | Инструменты |
 | :--------: | :-------: |
-|[Определение стоимости Б/У автомобиля](https://github.com/9ecolla/Data-analyst/blob/main/Python/Ed_task_ML_%20linear_regression%20.ipynb) | ML scikit-learn Лучший проект |
+|Лучший проект [Определение стоимости Б/У автомобиля](https://github.com/9ecolla/Data-analyst/blob/main/Python/Ed_task_ML_%20linear_regression%20.ipynb) | ML scikit-learn |
 |[Python случайный лес](https://github.com/9ecolla/Data-analyst/blob/main/Python/Ed_task_random_forest.ipynb) | matplotlib  scikit-learn|
 |[Python дерево решений](https://github.com/9ecolla/Data-analyst/blob/main/Python/Ed_task_trees_cross_validation.ipynb) | numpy scikit-learn|
 |[Анализ использования кредита от типа карты](https://github.com/9ecolla/Data-analyst/blob/main/Python/Education_task.ipynb) | seaborn matplotlib numpy |
