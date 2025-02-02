@@ -40,4 +40,4 @@
 |[Определение рыночной стоимости квартир](https://github.com/DinkyPinky/Data-Science/tree/main/Yandex-Practicum-Projects/real-estate-market-analysis) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/>|  
 
 ### Мои грамоты:
-![ГТ-Банк](Сertificates/2024_Суперфинал_Хакатон_Т-Банк.jpg)
+![ГТ-Банк](Сertificates/SuperFinal_Hackaton_T-Bank.jpg)
