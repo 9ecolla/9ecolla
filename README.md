@@ -1,5 +1,5 @@
 # Руслан Ахметов
-:briefcase: Дата-аналитик \
+:briefcase:  \
 :round_pushpin: Уфа, Россия
 <br/><br/>
 <div id="badges">
