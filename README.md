@@ -1,6 +1,5 @@
 # Руслан Ахметов
-:briefcase:  \
-:round_pushpin: Уфа, Россия
+
 <br/><br/>
 <div id="badges">
   <a href="https://docs.google.com/document/d/1jRqryGSLUPGMrdiqgPg48yA6Jk5b-y1u8TJZnDVbmgE/edit?usp=sharing">
