@@ -39,7 +39,7 @@
   <a href="https://www.kaggle.com/ecolla999"><img alt="Kaggle — ecolla999" src="https://img.shields.io/badge/Kaggle-ecolla999-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="https://t.me/ecolla9"><img alt="Telegram — @ecolla9" src="https://img.shields.io/badge/Telegram-@ecolla9-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ruslan-akhmetov-b8a069391/"><img alt="LinkedIn — Ruslan Akhmetov" src="https://img.shields.io/badge/LinkedIn-Ruslan_Akhmetov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="assets/Ruslan_Akhmetov_CV_2026.pdf"><img alt="Резюме — PDF" src="https://img.shields.io/badge/Резюме-PDF-E85D75?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="assets/Ruslan_Akhmetov_CV_2026.pdf"><img alt="Резюме — PDF" src="https://img.shields.io/badge/Resume-PDF-E85D75?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 </p>
 
 <p align="center">
